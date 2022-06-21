@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment"
+    android:background="@color/purple_200">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/num1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:textColor="@color/purple_500"
+        android:textSize="200dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="40dp"
+        android:id="@+id/tela1"
+        android:text="@string/Irtela2"/>
+
+    <Button
+        android:id="@+id/tela2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="280dp"
+        android:text="@string/Irtela3" />
+
+</FrameLayout>

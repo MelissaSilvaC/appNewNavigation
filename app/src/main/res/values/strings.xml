@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+
+    <string name="tela1">t2</string>
+    <string name="tela2">t3</string>
+
+    <string name="Irtela2">Tela 2</string>
+    <string name="Irtela3">Tela 3</string>
+
+    <string name="btnV">Retornar</string>
+    <string name="retornar">Retornar</string>
+
+</resources>
